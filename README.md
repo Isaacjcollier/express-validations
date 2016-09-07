@@ -4,6 +4,7 @@
 
 ## Objectives
 
+
 1. Generate error messages based on whether or not data was supplied in a form submit, checking `req.body` to do so.
 1. Prevent duplicate data from being added into the database. Generate error messages if certain data submitted through a form already exists in the database.
 
